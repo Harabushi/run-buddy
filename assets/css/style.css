@@ -226,7 +226,6 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
-
 /* end trainer section*/
 
 .text-left{
@@ -237,3 +236,8 @@ section {
     text-align: right;
 }
 
+/* reach out section */
+.contact {
+    text-align: center;
+}
+/* end reach out section */
