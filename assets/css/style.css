@@ -83,6 +83,18 @@ section {
     position: relative;
 }
 
+.hero-cta {
+    text-align: center;
+    margin: auto;
+}
+.hero-cta p {
+    color: white
+}
+
+.hero-cta h2 {
+    color: #fce138
+}
+
 .hero-form {
     color: #024e76;
     background-color: #fce138;
