@@ -9,11 +9,7 @@ body {
     color: #39a6b2;
 }
 
-section {
-    padding: 60px;
-}
-
-/* header styles */
+/* header / nav bar styles */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -51,7 +47,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 1.55vw;
 }
-/* end header styles */
+/* end header / nav bar styles */
 
 /* footer styles */
 footer {
@@ -79,7 +75,13 @@ footer a {
 }
 /* end footer styles */
 
-/* hero style */
+
+/* style all section tags */
+section {
+    padding: 60px;
+}
+
+/* hero styles */
 .hero {
     background-image: url(../images/hero-bg.jpg);
     background-size: cover;
@@ -103,10 +105,6 @@ footer a {
     font-style: italic;
     font-size: 55px;
     color: #fce138;
-}
-
-.hero-cta p {
-    color: white;
 }
 
 .hero-form {
@@ -148,9 +146,9 @@ footer a {
     padding: 10px 20px;
     font-size: 16px;
 }
-/* end hero style */
+/* end hero styles */
 
-/* about section */
+/* section title styles */
 .section-title {
     font-size: 48px;
     color: #024e76;
@@ -168,7 +166,9 @@ footer a {
 .secondary-border {
     border-color: #39a6b2;
 }
+/* end section title styles */
 
+/* what we do styles */
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -177,7 +177,9 @@ footer a {
     margin: 0 auto;
     text-align: center;
 }
+/* end what we do styles */
 
+/* what you do styles */
 .steps {
     background: #fce138;
 }
@@ -230,9 +232,9 @@ footer a {
     line-height: 1.5;
     color: #024e76;
 }
-/* end about section */
+/* end what you do styles */
 
-/* trainer sections*/
+/* meet the trainers styles */
 .trainers {
     width: 100%;
     margin: 0 auto;
@@ -270,9 +272,9 @@ footer a {
 .trainer-bio p {
     font-size: 17px;
 }
-/* end trainer section*/
+/* end meet the trainers styles */
 
-/* reach out section */
+/* reach out styles */
 .contact {
     background-color: #024e76;
 }
